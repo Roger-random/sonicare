@@ -1457,6 +1457,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4d019c05-a7b5-47d3-ae54-48894bf732ae)
   )
+  (text "Drain/Source doesn't make sense\nDo I have something backwards?"
+    (at 205.74 149.86 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4dc73ebf-3f50-40b6-b6fd-b64bed5eb151)
+  )
   (text "Schematic is incomplete and missing:\n* How Vpp differs from Vpp.\n* Inductive charging coil & rectifier.\n* Lithium-ion battery management.\n* Unpopulated pads."
     (at 116.84 160.02 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
