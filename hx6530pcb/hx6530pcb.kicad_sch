@@ -1803,10 +1803,10 @@
   (symbol (lib_id "Device:Q_NMOS_DSG") (at 238.76 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 870fc16e-984b-4d47-ad6c-8502a0d92de0)
-    (property "Reference" "Q4" (at 243.84 120.65 0)
+    (property "Reference" "Q2.2" (at 243.84 120.65 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Q_NMOS_DSG" (at 243.84 123.19 0)
+    (property "Value" "AO8808A.2" (at 243.84 123.19 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 243.84 119.38 0)
@@ -1821,7 +1821,7 @@
     (instances
       (project "hx6530pcb"
         (path "/8af710f4-bf1d-4b89-a66c-06bded5cc6e6"
-          (reference "Q4") (unit 1)
+          (reference "Q2.2") (unit 1)
         )
       )
     )
@@ -1982,10 +1982,10 @@
   (symbol (lib_id "Device:Q_PMOS_DSG") (at 198.12 90.17 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b4b09aa3-b1d0-4f09-9f12-8544f0300034)
-    (property "Reference" "Q2" (at 203.2 91.44 0)
+    (property "Reference" "Q1.1" (at 203.2 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Q_PMOS_DSG" (at 203.2 88.9 0)
+    (property "Value" "AO8801.1" (at 203.2 88.9 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 203.2 92.71 0)
@@ -2000,7 +2000,7 @@
     (instances
       (project "hx6530pcb"
         (path "/8af710f4-bf1d-4b89-a66c-06bded5cc6e6"
-          (reference "Q2") (unit 1)
+          (reference "Q1.1") (unit 1)
         )
       )
     )
@@ -2035,10 +2035,10 @@
   (symbol (lib_id "Device:Q_NMOS_DSG") (at 198.12 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e8e0253d-6d3e-493f-8df4-0aa755b7ffd0)
-    (property "Reference" "Q3" (at 204.47 120.65 0)
+    (property "Reference" "Q2.1" (at 204.47 120.65 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Q_NMOS_DSG" (at 204.47 123.19 0)
+    (property "Value" "AO8808A.1" (at 204.47 123.19 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 203.2 119.38 0)
@@ -2053,7 +2053,7 @@
     (instances
       (project "hx6530pcb"
         (path "/8af710f4-bf1d-4b89-a66c-06bded5cc6e6"
-          (reference "Q3") (unit 1)
+          (reference "Q2.1") (unit 1)
         )
       )
     )
@@ -2165,10 +2165,10 @@
   (symbol (lib_id "Device:Q_PMOS_DSG") (at 238.76 90.17 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fedd80cb-1e5f-4f5e-a398-496e42b887a3)
-    (property "Reference" "Q1" (at 245.11 91.44 0)
+    (property "Reference" "Q1.2" (at 245.11 88.9 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Q_PMOS_DSG" (at 245.11 88.9 0)
+    (property "Value" "AO8801.2" (at 245.11 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 243.84 92.71 0)
@@ -2183,7 +2183,7 @@
     (instances
       (project "hx6530pcb"
         (path "/8af710f4-bf1d-4b89-a66c-06bded5cc6e6"
-          (reference "Q1") (unit 1)
+          (reference "Q1.2") (unit 1)
         )
       )
     )
